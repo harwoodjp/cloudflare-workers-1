@@ -1,0 +1,17 @@
+name = "supabase-get-archive-resource-readable"
+main = "src/index.ts"
+type = "webpack"
+compatibility_date = "2022-10-02"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
+
+[vars]
+name = "API_KEY"
+text = ""
+
+[[kv_namespaces]]
+id = "6ccd659ba21747beb504e53e40e62b0f"
+binding = "KV"

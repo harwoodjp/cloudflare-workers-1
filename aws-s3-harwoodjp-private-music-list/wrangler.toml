@@ -1,0 +1,4 @@
+name = "aws-s3-harwoodjp-private-music-list"
+main = "src/index.ts"
+compatibility_date = "2022-10-02"
+usage_model = "bundled"
