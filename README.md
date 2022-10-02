@@ -1,12 +1,12 @@
 how to
 * create worker
-	* wrangler init <name>
+	* wrangler init $name
 * clone worker from dashboard
-	* wrangler init --from-dash <name>
+	* wrangler init --from-dash $name
 * add secret to worker
-	* wrangler secret put <name>
+	* wrangler secret put $name
 * publish
-	* wrangler publish <path-to-index>
+	* wrangler publish $path-to-index
 
 
 workers
